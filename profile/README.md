@@ -16,7 +16,10 @@ We code Discord bots that you can invite to your Discord server that make your l
 - [Twitter](https://twiter.com/TCATechStatus)
 
 ## Our Team
-<div align="center" style="display: flex; flex-direction: row;">
-  <a href="https://github.com/NotTCA"><img src="https://tcatech.ml/assets/img/staff/Not%20TCA.jpg" width="200px"></a><br />Not TCA<br /><br />
-  <a href="https://github.com/KiranPL0"><img src="https://tcatech.ml/assets/img/staff/kiran.gif" width="200px"></a><br />kiran
+<div align="center">
+  <a href="https://github.com/NotTCA"><img src="https://tcatech.ml/assets/img/staff/Not%20TCA.jpg" width="200px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KiranPL0"><img src="https://tcatech.ml/assets/img/staff/kiran.gif" width="200px"></a>
+</div>
+<div align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not TCA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kiran
 </div>
