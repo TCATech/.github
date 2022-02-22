@@ -14,3 +14,5 @@ We code Discord bots that you can invite to your Discord server that make your l
 - [Status](https://status.tcatech.ml)
 - [YouTube](https://youtube.com/channel/UClRBLstCbOwgjmqv1DreWBA)
 - [Twitter](https://twiter.com/TCATechStatus)
+
+<div align='center'><img src='https://screenie.nottca.tk/u40z2siim.png'></div>
