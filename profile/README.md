@@ -17,4 +17,6 @@ We code Discord bots that you can invite to your Discord server that make your l
 
 <div align='center'>
   <img src='https://screenie.nottca.tk/u40z2siim.png'><br />
+  <img src='https://screenie.nottca.tk/lwfl48kzh.png'><br />
+  <img src='https://screenie.nottca.tk/iv5xvgdwb.png'><br />
 </div>
