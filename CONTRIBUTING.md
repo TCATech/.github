@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Contributing to Torus
+# Contributing to TCA Tech
 
 First off, thanks for taking the time to contribute! ❤️
 
