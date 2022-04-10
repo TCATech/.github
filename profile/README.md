@@ -8,6 +8,7 @@ We code Discord bots that you can invite to your Discord server that make your l
 - [PainBot](https://painbot.tk)
 - [DerpBot](https://github.com/TCATech/DerpBot)
 - [Musicful](https://musicful.tk)
+- [Roleful](https://github.com/TCATech/Roleful)
 
 ## Socials
 - [Website](https://tcatech.ml)
