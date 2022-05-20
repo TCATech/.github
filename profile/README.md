@@ -7,7 +7,7 @@ We code Discord bots that you can invite to your Discord server that make your l
 
 ## Our Projects
 - [PainBot](https://painbot.tk)
-- [Musicful](https://musicful.tk)
+- [Waveform](https://waveform.cf)
 - [Roleful](https://rolefulbot.tk)
 - [Globally Global](https://github.com/TCATech/GloballyGlobal)
 
